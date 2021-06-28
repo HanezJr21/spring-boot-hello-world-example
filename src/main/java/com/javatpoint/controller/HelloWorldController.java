@@ -10,6 +10,6 @@ public class HelloWorldController{
 	@RequestMapping("/")
 	public String hello() {
 		log.info("ACCESS PAGE SUCCESS");
-		return "Hello javaTpoint";
+		return "Hello HUMAN";
 	}
 }
